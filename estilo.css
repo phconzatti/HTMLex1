@@ -27,3 +27,12 @@ a{
 .centralizar{
     text-align: center;
 }
+
+.bordaImagens{
+    border: solid 10px #c3c3ae;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
